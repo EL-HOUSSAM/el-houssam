@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm ELHoussam
 
-<!--
-**EL-HOUSSAM/el-houssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a motivated and detail-oriented developer with over 3 years of experience in software development. My expertise lies in Java, C#, and JavaScript, and I'm eager to learn and explore new technologies like Copilot and ChatGPT.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's in Software Engineering
+- 💻 Experienced in building software modules, testing, debugging, database design, and refactoring
+- 🌱 Always seeking new development opportunities to grow and contribute to exciting projects
+
+## Skills
+
+- **Languages:** Java, C#, JavaScript
+- **Technologies:** Spring, .NET, REACT
+- **Databases:** SQL Server, MySql 
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)
+
+## Let's Connect!
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. You can find me on:
+
+- [LinkedIn](www.linkedin.com/in/elhoussam) 
+- [Personal Website/Blog](https://el-houssam.github.io/Portfolio/)
+
+Thank you for visiting my profile! 🚀
