@@ -11,20 +11,18 @@ Welcome to my GitHub profile! I'm a motivated and detail-oriented developer with
 ## Skills
 
 - **Languages:** Java, C#, JavaScript
-- **Technologies:** [Add any frameworks, libraries, or tools you are familiar with]
-- **Databases:** [Add any databases you have experience with]
-- **Other Skills:** [Add any other relevant skills or tools]
+- **Technologies:** Spring, .NET, REACT
+- **Databases:** SQL Server, MySql 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)
 
 ## Let's Connect!
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. You can find me on:
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website/Blog](your-website)
+- [LinkedIn](www.linkedin.com/in/elhoussam) 
+- [Personal Website/Blog](https://el-houssam.github.io/Portfolio/)
 
 Thank you for visiting my profile! 🚀
